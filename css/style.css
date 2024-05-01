@@ -10121,3 +10121,29 @@ font-family: "PLAZA PERSONAL USE";
   display: block;
 }
 } */
+h2.heding-logo{
+  display: block;
+  font-size: calc(2rem + 3vw);
+  text-align: center;
+font-weight: 900;
+letter-spacing: 2px;
+color: #042d42;
+font-family: 'Courier New', Courier, monospace;
+
+}
+h2.heding-logo span:last-child{
+  margin-left: 100px;
+}
+h2.heding-logo span:first-child{
+  margin-left: -50px;
+}
+.tagline{
+/* margin-left: 100px; */
+color: white;
+text-transform: uppercase;
+letter-spacing: 3px;
+}
+.heading-logo{
+  width: 50px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
