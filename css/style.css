@@ -264,8 +264,8 @@ body {
           }
           }
 .big.hero-heading{
-  color: var(--white);
-  font-family: "PLAZA PERSONAL USE";
+  /* color: var(--white);
+  font-family: "PLAZA PERSONAL USE"; */
 }
 
 .cube1 {
@@ -9936,7 +9936,7 @@ h6 {
 .image-border{
   border-radius: 5px;
 }
-.v11_14 {
+/* .v11_14 {
   width: 100%;
 text-align: center;
   height: 358px;
@@ -10112,7 +10112,7 @@ position: unset;
 }
 .heding-logo{
   display: block;
-  font-size: 4rem;
+  font-size: calc() !important;
   text-align: center;
   color: white;
 font-family: "PLAZA PERSONAL USE";
@@ -10120,4 +10120,4 @@ font-family: "PLAZA PERSONAL USE";
 .hero-icon {
   display: block;
 }
-}
+} */
