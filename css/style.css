@@ -9938,6 +9938,7 @@ h6 {
 }
 .v11_14 {
   width: 100%;
+text-align: center;
   height: 358px;
   background: rgba(255, 255, 255, 1);
   opacity: 1;
@@ -10043,6 +10044,13 @@ h6 {
   opacity: 1;
   text-align: left;
 }
+.heding-logo{
+  display: none;
+  
+}
+.hero-icon {
+  display: none;
+}
 @media(max-width:992px){
   .v11_16,.v11_19,.v11_20,.v11_21,.v11_22,.v11_23,.v11_25,.v11_26,.v11_27,.v11_28,.v11_29{
       font-size: 80px;
@@ -10098,5 +10106,18 @@ position: unset;
 .v11_24{
   top: 110px;
   left: 20px;
+}
+.v11_14{
+  display: none;
+}
+.heding-logo{
+  display: block;
+  font-size: 4rem;
+  text-align: center;
+  color: white;
+font-family: "PLAZA PERSONAL USE";
+}
+.hero-icon {
+  display: block;
 }
 }
