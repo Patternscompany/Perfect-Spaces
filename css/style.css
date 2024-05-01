@@ -251,7 +251,18 @@ body {
 .big{
   color:#042d42;
 }
-
+.carousel-item .mobile{
+  display: none;
+          }
+          
+          @media(max-width:992px){
+              .carousel-item .mobile{
+  display: block;
+          }
+              .carousel-item .desktop{
+  display: none;
+          }
+          }
 .big.hero-heading{
   color: var(--white);
   font-family: "PLAZA PERSONAL USE";
