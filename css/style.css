@@ -178,13 +178,16 @@ flex-direction: column;
 font-size: 20px !important;
 }
 .btn.fa-twitter{
-  padding: 12px 10px !important;
+  padding: 5px 10px !important;
+  margin-bottom: 5px;
 }
 .btn.fa-linkedin-in{
-  padding: 12px 10px !important;
+  padding: 5px 10px !important;
+  margin-bottom: 5px;
 }
 .btn.fa-instagram{
-  padding: 12px 10px !important;
+  padding: 5px 10px !important;
+  margin-bottom: 5px;
 }
 
 .whatsapp {
