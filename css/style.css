@@ -186,12 +186,21 @@ section {
 }
 .btn.fa-twitter {
   padding: 8px !important;
+.btn.fa-twitter{
+  padding: 5px 10px !important;
+  margin-bottom: 5px;
 }
 .btn.fa-linkedin-in {
   padding: 8px !important;
+.btn.fa-linkedin-in{
+  padding: 5px 10px !important;
+  margin-bottom: 5px;
 }
 .btn.fa-instagram {
   padding: 8px !important;
+.btn.fa-instagram{
+  padding: 5px 10px !important;
+  margin-bottom: 5px;
 }
 
 .whatsapp {
